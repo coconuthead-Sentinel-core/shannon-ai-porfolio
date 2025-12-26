@@ -21,7 +21,7 @@ Core capabilities:
 - Maintains living architecture docs, decision logs, and knowledge_library branches
 - Designed for zero-friction handoff to AI coding agents
 - Supports recursive bloom cycles for iterative builds
-- # VBR Studios - Markdown Deferred
+- # VR Studios - Markdown Deferred
 
 Deferred-rendering markdown studio prototype for dynamic documentation.
 
