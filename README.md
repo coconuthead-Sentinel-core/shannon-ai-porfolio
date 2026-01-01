@@ -1,41 +1,40 @@
-# shannon-ai-porfolio
-# Neural Lattice Architecture
+# Shannon Bryan Kelly — AI Systems & Backend Engineering Portfolio
 
-Fractal-rooted knowledge base system designed as a seed library for AI-assisted development.
+This portfolio highlights selected projects demonstrating backend engineering,
+AI orchestration, and systems design.  
+Only completed, review-ready work is included for clarity.
 
-Key features:
-- Graph-structured folder hierarchy mirroring algorithmic classics (CLRS patterns)
-- Self-similar branching for infinite scalability
-- Built to serve as retrievable context for LLM agents (Cursor, Copilot, Grok Code Fast)
-- Enables rapid full-stack orchestration with minimal token overhead
+---
 
-Tech: Directory structure + Markdown/PDF seeding + RAG-ready design
+## Featured Projects
 
-Live demo in linked projects below.
-# Archivist Framework
+### Sentinel Forge — Cognitive AI Orchestration Platform
+Backend AI orchestration system demonstrating:
 
-Intelligent project scaffolding and documentation preservation system.
+- API design using FastAPI
+- Real-time WebSocket communication
+- State and memory management
+- Evaluation pipelines and testing infrastructure
+- Azure OpenAI integration with mock fallbacks
 
-Core capabilities:
-- Auto-generates clean, fractal folder structures for backend/frontend/API layers
-- Maintains living architecture docs, decision logs, and knowledge_library branches
-- Designed for zero-friction handoff to AI coding agents
-- Supports recursive bloom cycles for iterative builds
-- # VR Studios - Markdown Deferred
+Repository:  
+https://github.com/coconuthead-Sentinel-core/sentinel-forge-cognitive-orchestrator
 
-Deferred-rendering markdown studio prototype for dynamic documentation.
+---
 
-Highlights:
-- Loads entire knowledge base on startup (books, algorithms, code snippets)
-- Enables real-time AI collaboration within VS Code / Codespaces environments
-- Markdown-first workflow with deferred complexity for clean readability
-- Bridges human orchestration and LLM execution
+### Quantum Nexus Forge — Cognitive Processing Architecture
+Conceptual and technical framework demonstrating:
 
-Tech: Markdown + YAML configs + VS Code workspace integration
+- Systems thinking and architectural abstraction
+- Information processing and transformation strategies
+- Research-oriented design
+- Documentation-driven development
 
-Proof-of-concept for next-gen AI dev studios.
+Repository:  
+https://github.com/coconuthead-Sentinel-core/Sentinel-of-sentinel-s-Forge
 
+---
 
-Tech: Python scripting + Markdown standards + GitHub Actions ready
+Additional experimental or internal work is intentionally excluded to maintain
+a clear, professional signal for technical reviewers and hiring teams.
 
-Foundation for production-grade AI-orchestrated apps.
